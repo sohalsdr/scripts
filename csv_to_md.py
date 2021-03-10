@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 # Author:       sohalsdr
 # Description:  Imports a .csv file and converts it into a markdown table.
